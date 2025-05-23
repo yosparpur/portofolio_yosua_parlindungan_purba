@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-yospur/static/css/main.41b1ae74.css",
+    "main.js": "/portfolio-yospur/static/js/main.eceaed5d.js",
+    "static/media/Movie App.png": "/portfolio-yospur/static/media/Movie App.3c61d7021c4e75e7ca32.png",
+    "static/media/Residence.png": "/portfolio-yospur/static/media/Residence.602443719fad70547bde.png",
+    "static/media/avatar.png": "/portfolio-yospur/static/media/avatar.facb3969685f2019c373.png",
+    "static/media/BookShelf.png": "/portfolio-yospur/static/media/BookShelf.505b8aef6b3f2cd13240.png",
+    "static/media/Submit Note.png": "/portfolio-yospur/static/media/Submit Note.767f35ad6ea1183b559d.png",
+    "static/media/Quizz.png": "/portfolio-yospur/static/media/Quizz.486468a4218f814eb938.png",
+    "index.html": "/portfolio-yospur/index.html",
+    "main.41b1ae74.css.map": "/portfolio-yospur/static/css/main.41b1ae74.css.map",
+    "main.eceaed5d.js.map": "/portfolio-yospur/static/js/main.eceaed5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41b1ae74.css",
+    "static/js/main.eceaed5d.js"
+  ]
+}
